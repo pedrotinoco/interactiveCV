@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="575.667px" height="287px" viewBox="0 0 575.667 287" enable-background="new 0 0 575.667 287" xml:space="preserve">
+	  <defs>
+		<style>
+			.animat{
+				stroke-dasharray: 10000;
+				stroke-dashoffset: 10000;
+				-webkit-animation: draw 10s forwards;
+				-moz-animation: draw 10s forwards;
+				-o-animation: draw 10s forwards;
+				-ms-animation: draw 10s forwards;
+				animation: draw 10s forwards;
+			}
+			@-webkit-keyframes draw {
+			  100% {
+				stroke-dashoffset: 0;
+			  }
+			}
+			@-moz-keyframes draw {
+			  100% {
+				stroke-dashoffset: 0;
+			  }
+			}
+			@-o-keyframes draw {
+			  100% {
+				stroke-dashoffset: 0;
+			  }
+			}
+			@-ms-keyframes draw {
+			  100% {
+				stroke-dashoffset: 0;
+			  }
+			}
+			@keyframes draw {
+			  100% {
+				stroke-dashoffset: 0;
+			  }
+			}
+		</style>
+	 </defs>
+<g class="animat">
+	<ellipse fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="369.32" cy="137.667" rx="66" ry="65.333"/>
+	<ellipse fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="207.667" cy="137.667" rx="66" ry="65.333"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M303.32,137.667c0-5.527-6.927-10-15.487-10"/>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="424.788" y1="102.251" x2="581" y2="-3"/>
+	<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="150.749" y1="104.582" x2="0" y2="3"/>
+	
+	<text transform="matrix(1 0 0 1 205 240.0669)">
+		<tspan fill="none" stroke="#333" stroke-width=".5" x="0" y="0" font-family="'MS-UIGothic'" font-size="12"> 
+		Pedro Ribeiro Tinoco Rodrigues </tspan>
+		<tspan  stroke="#333" stroke-width=".5" x="72" y="28.8" font-family="'MS-UIGothic'" font-size="12">ISEP</tspan>
+	</text>
+	
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M273.667,137.667c0-5.527,6.336-10,14.167-10"/>
+</g>
+</svg>
